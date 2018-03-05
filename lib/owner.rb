@@ -63,4 +63,5 @@ class Owner
         animal.mood = "nervous"
       end
     end
+    pets.clear
 end
